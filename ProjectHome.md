@@ -1,0 +1,1 @@
+This fuzzing tool allows fuzzing of events, tags, styles and HTML attributes. You can use incomplete tags with various depth and randomise case of all parameters. It also contains a database of all new attack vectors gathered.
